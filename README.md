@@ -1,10 +1,10 @@
-# Headsy: AI Headshot Generator Privacy Policy
+# Fotu: AI Headshot Generator Privacy Policy
 
 Last Updated: 2026/9/26
 
 ## 1. Acceptance of Terms
 
-Headsy ("Headsy", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to Headsy and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
+Fotu ("Fotu", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy applies to Fotu and its various versions and is part of our Terms of Use. By accessing or using our Application, you acknowledge and fully understand this Privacy Policy and freely consent to the practices described here.
 
 **None of the data collected by this app is linked to your identity.**
 
@@ -54,11 +54,11 @@ Anonymous service data, including IP address, is collected to ensure secure and 
 
 ## 3. Face Data Collection, Use, and Retention
 
-This section describes in detail how Headsy handles face data in compliance with Apple's App Store Review Guidelines (5.1.1).
+This section describes in detail how Fotu handles face data in compliance with Apple's App Store Review Guidelines (5.1.1).
 
 ### What face data does the app collect?
 
-Headsy does **not** collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image. No face-specific data is isolated or recorded at any point.
+Fotu does **not** collect, store, or retain any face data. Photos you upload may contain faces, but the app does not extract, analyze, or store any facial features, biometric identifiers, or face geometry data. The uploaded photo is processed as a whole image. No face-specific data is isolated or recorded at any point.
 
 ### How is face data used?
 
@@ -127,7 +127,7 @@ These services process data only to the extent required for their core functions
 
 ## 8. Children's Privacy
 
-Headsy is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
+Fotu is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us at tunahanaktay.apps@gmail.com and we will delete it immediately.
 
 ## 9. International Transfers
 
